@@ -15,3 +15,11 @@ Steps to reach Museum from airport:
 2. Other way to get from Paris Orly Airport (ORY) to the museum is to train which takes 45 min and costs €11 - €14. 
 3. The fastest way to get from airport to musuem is by Uber which takes 16min and costs 23 € - 30 €.
 4. Alternatively, bus and line 38 bus, which costs €9 - €12 and takes 58 min.
+ 
+Other places to visit around Louvre museum:
+* Walk the Tuileries Gardens.
+* Visit the Orangerie Museum.
+* See the Place de la Concorde.
+* Explore les Halles.
+* Visit the Orsay Museum.
+* Have Lunch in the Louvre District.
