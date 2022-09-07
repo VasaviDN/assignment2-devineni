@@ -24,4 +24,4 @@ Other places to visit around Louvre museum:
 * Visit the Orsay Museum.
 * Have Lunch in the Louvre District.
 
-[About Me](https://github.com/VasaviDN/assignment2-devineni/blob/main/AboutMe.md)
+[Click here to know more about me](https://github.com/VasaviDN/assignment2-devineni/blob/main/AboutMe.md)
