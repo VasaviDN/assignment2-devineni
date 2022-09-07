@@ -25,3 +25,15 @@ Other places to visit around Louvre museum:
 * Have Lunch in the Louvre District.
 
 [Click here to know more about me](https://github.com/VasaviDN/assignment2-devineni/blob/main/AboutMe.md)
+
+---
+
+### Cities to visit nearby:
+Here is the list of cities that you can visit which are near to Louvre Museum. It includes the name of the city along with the interesting places you can visit. Also the time spend for visiting is also mentioned as below:
+|Name of a City |Important location to visit |Time to spend visiting |
+|---|---|---|
+|Avignon|Palais des Papes|5 hours|
+|Strasbourg, Alsace|Gothic cathedral|6 hours|
+|Gothic cathedral|Charles de Cazanove|2 hours|
+|Bordeaux, Aquitaine|Pearl of Aquitaine|3 hours|
+|Dijon, Burgundy|Dijon|7 hours|
