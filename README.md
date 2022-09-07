@@ -37,3 +37,12 @@ Here is the list of cities that you can visit which are near to Louvre Museum. I
 |Gothic cathedral|Charles de Cazanove|2 hours|
 |Bordeaux, Aquitaine|Pearl of Aquitaine|3 hours|
 |Dijon, Burgundy|Dijon|7 hours|
+
+---
+
+### Quotes of the day:
+> "Dream is not that which you see while sleeping it is something that does not let you sleep." 
+-By *A.P.J. Abdul Kalam*
+>
+> “Logic will get you from A to Z, imagination will get you everywhere.”
+-By *Albert Einstein*
