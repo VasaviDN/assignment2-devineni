@@ -46,3 +46,18 @@ Here is the list of cities that you can visit which are near to Louvre Museum. I
 >
 > “Logic will get you from A to Z, imagination will get you everywhere.”
 -By *Albert Einstein*
+
+---
+
+### Code Fencing
+> Best way to embed flash in html: <https://stackoverflow.com/questions/316807/best-way-to-embed-flash-in-html>
+
+```
+<object type="application/x-shockwave-flash" 
+  data="your-flash-file.swf" 
+  width="0" height="0">
+  <param name="movie" value="your-flash-file.swf" />
+  <param name="quality" value="high"/>
+</object>
+```
+Snippet Link: <https://css-tricks.com/snippets/html/embedding-flash/>
